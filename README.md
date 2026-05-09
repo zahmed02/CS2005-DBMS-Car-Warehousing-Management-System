@@ -1,7 +1,7 @@
-# CS2005 Car Warehousing Management System
+# Car Warehousing Management System
 
 ## Course: C2005 Database Systems
-## Instructor & Project Supervisor: Miss Hajra Ahmed & Miss Sadaf Zehra
+## Instructor(s): Miss Hajra Ahmed & Miss Sadaf Zehra
 
 ## Overview
 A comprehensive, web-based platform for managing vehicle inventory, customer interactions, and dealership operations.
